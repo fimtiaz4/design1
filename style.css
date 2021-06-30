@@ -1,0 +1,95 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+.fullBody1{
+	margin: 10% 45%;
+}
+
+
+.circle{
+  border: .3em solid #0F1C3F;
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+  position: absolute;
+}
+.bottom{
+	position: absolute;
+}
+
+
+.solidCircle{
+  border: none;
+  border-radius: 50%;
+  background-color: #0F1C3F ;
+  height: 60px;
+  width: 60px;
+  position: relative;
+
+    top: 47px;
+    left: 15px;
+}
+
+.fullBody{
+	position: absolute;
+}
+.sCircleT{
+  border: none;
+  border-radius: 50%;
+  background-color: #0F1C3F ;
+  height: 10px;
+  width: 10px;
+  position: relative;
+  top: -9px;
+  left: 40px;
+}
+.sCircleb{
+  border: none;
+  border-radius: 50%;
+  background-color: #0F1C3F ;
+  height: 10px;
+  width: 10px;
+  position: relative;
+  top: 149px;
+  left: 40px;
+}
+
+
+
+
+.dashed_circle{
+  border: .3em dashed #0F1C3F;
+  border stroke width:6px ;
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+  position: absolute;
+  top: 0px;
+}
+.whiteCircle{
+  border: .3em dashed transparent;
+  /*border-radius: 50%;*/
+  height: 80px;
+  width: 80px;
+  background-color: white;
+  position: relative;
+  top: 0px;
+   margin-left:-40px;
+
+}
+.box{
+	position: relative;
+	top: 33px;
+}
+.squire{
+	border-left: .3em solid #0F1C3F;
+  height: 160px;
+  width: 160px;
+	position: absolute;
+	left: 43px;
+}
+
+
